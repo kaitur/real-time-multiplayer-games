@@ -1,0 +1,24 @@
+{
+  "name": "real-time-multiplayer-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaitur/real-time-multiplayer-games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaitur/real-time-multiplayer-games/issues"
+  },
+  "homepage": "https://github.com/kaitur/real-time-multiplayer-games#readme",
+  "dependencies": {
+    "netcat": "^1.5.0"
+  }
+}
